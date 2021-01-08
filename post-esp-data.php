@@ -13,6 +13,7 @@ $password = "utfr";
 
 // Keep this API Key value to be compatible with the ESP32 code provided in the project page. 
 // If you change this value, the ESP32 sketch needs to match
+// NOTE: Check with existing esp8266 code 
 $api_key_value = "tPmAT5Ab3j7F9";
 
 $api_key= $sensor = $location = $value1 = $value2 = $value3 = "";
